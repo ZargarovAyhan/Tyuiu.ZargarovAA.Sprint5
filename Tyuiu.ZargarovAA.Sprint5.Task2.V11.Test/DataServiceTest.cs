@@ -14,7 +14,7 @@ namespace Tyuiu.ZargarovAA.Sprint5.Task2.V11.Test
         public void CheckedExistsFile()
         {
 
-            string path = @"C:\Users\fairm\OneDrive\Рабочий стол\source\repos\Tyuiu.ZargarovAA.Sprint5\Tyuiu.ZargarovAA.Sprint5.Task1.V30\bin\Debug\OutPutFileTask1.txt";
+            string path = @"C:\Users\fairm\OneDrive\Рабочий стол\source\repos\Tyuiu.ZargarovAA.Sprint5\Tyuiu.ZargarovAA.Sprint5.Task2.V11\bin\Debug\OutPutFileTask2.txt";
 
             FileInfo fileinfo = new FileInfo(path);
             bool fileExists = fileinfo.Exists;

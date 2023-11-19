@@ -13,3 +13,4 @@ namespace Tyuiu.ZargarovAA.Sprint5.Task3.V7
         }
     }
 }
+Tyuiu.ZargarovAA.Sprint5.Task3.V7
