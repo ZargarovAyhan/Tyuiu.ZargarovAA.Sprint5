@@ -33,6 +33,7 @@ namespace Tyuiu.ZargarovAA.Sprint5.Task4.V4
 
             Console.WriteLine("* по формуле (Полученное значение округлить до трёх знаков после запятой) *");
             Console.WriteLine("* и вернуть полученный результат на консоль.                              *");
+
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
