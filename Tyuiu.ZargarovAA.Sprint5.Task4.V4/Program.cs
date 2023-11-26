@@ -39,7 +39,7 @@ namespace Tyuiu.ZargarovAA.Sprint5.Task4.V4
 
             Console.WriteLine("***************************************************************************");
 
-            string path = $@"C:DataSprint5\InPutDataFileTask4V4.txt";
+            string path = $@"C:\DataSprint5\InPutDataFileTask4V4.txt";
 
             Console.WriteLine("Данные находятся в файле: " + path);
 
